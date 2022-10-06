@@ -1,0 +1,64 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 24, 2019, 9:50:36 AM
+    Author     : frontend
+*/
+
+
+/*ROBOTO*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap&subset=latin-ext');
+
+
+
+@font-face {
+  font-family: 'CircularStd-Black';
+  src: 
+      url('CircularStd-Black/CircularStd-Black.eot?#iefix') format('embedded-opentype'), 
+      url('CircularStd-Black/CircularStd-Black.woff') format('woff'), 
+      url('CircularStd-Black/CircularStd-Black.ttf')  format('truetype'), 
+      url('CircularStd-Black/CircularStd-Black.svg#CircularStd-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CircularStd-Bold';
+  src: 
+      url('CircularStd-Bold/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+      url('CircularStd-Bold/CircularStd-Bold.woff') format('woff'),
+      url('CircularStd-Bold/CircularStd-Bold.ttf')  format('truetype'),
+      url('CircularStd-Bold/CircularStd-Bold.svg#CircularStd-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CircularStd-Book';
+  src: 
+      url('CircularStd-Book/CircularStd-Book.eot?#iefix') format('embedded-opentype'),
+      url('CircularStd-Book/CircularStd-Book.woff') format('woff'),
+      url('CircularStd-Book/CircularStd-Book.ttf')  format('truetype'),
+      url('CircularStd-Book/CircularStd-Book.svg#CircularStd-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'CircularStd-Medium';
+  src: 
+      url('CircularStd-Medium/CircularStd-Medium.eot?#iefix') format('embedded-opentype'),
+      url('CircularStd-Medium/CircularStd-Medium.woff') format('woff'),
+      url('CircularStd-Medium/CircularStd-Medium.ttf')  format('truetype'),
+      url('CircularStd-Medium/CircularStd-Medium.svg#CircularStd-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
